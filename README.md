@@ -99,3 +99,7 @@ console.assert(reverseString('hello') === 'olleh)
 ### Bird's eye
 
 ![bird](birds-eye.png)
+
+#### some existing material to pull from
+
+https://codepen.io/collection/XJrMxG
