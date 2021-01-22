@@ -102,4 +102,9 @@ console.assert(reverseString('hello') === 'olleh)
 
 #### some existing material to pull from
 
+- note that these use jest or mocha or something
+- we are using console.assert strictly
+
 https://codepen.io/collection/XJrMxG
+
+https://github.com/punchcode-fullstack/teacher-function-olympics/tree/master/tests/atomic
