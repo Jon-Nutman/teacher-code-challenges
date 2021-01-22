@@ -7,24 +7,28 @@ unary: operates on single value (typeof)
 binary: operates on 2 values
 ternary: operates on 3 values (ternary)
 
-arithmetic
-    - +
-    - -
-    - *
-    - /
-    - % (modulo)
-    - ++
-    - --
-    - +=
-assignment (=)
-comparison
-    - ==
-    - ===
-    - negation (not) ! // !=
-    - >
-    - <
-    - >=
-concatentation of strings
-    - +=
-    - x = x + b
-ternary
+```js
+/*
+    arithmetic
+        - +
+        - -
+        - *
+        - /
+        - % (modulo)
+        - ++
+        - --
+        - +=
+    assignment (=)
+    comparison
+        - ==
+        - ===
+        - negation (not) ! // !=
+        - >
+        - <
+        - >=
+    concatentation of strings
+        - +=
+        - x = x + b
+    ternary
+*/
+```
