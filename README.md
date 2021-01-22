@@ -89,6 +89,13 @@ function reverseString(str) {
 console.assert(reverseString('hello') === 'olleh)
 ```
 
+### an additional note about both
+
+- Each of these different fundamentals should operate on two types of data
+- Note this is not all inclusive - just an example of both types
+1. primitives: strings, boolean, number
+2. non-primitive (compound values...): objects and arrays
+
 ### Bird's eye
 
 ![bird](birds-eye.png)
