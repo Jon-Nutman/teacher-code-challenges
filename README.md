@@ -88,3 +88,7 @@ function reverseString(str) {
 }
 console.assert(reverseString('hello') === 'olleh)
 ```
+
+### Bird's eye
+
+![bird](birds-eye.png)
