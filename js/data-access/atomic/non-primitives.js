@@ -1,10 +1,10 @@
 let arr1 = [1, 2, 3];
-// set o1 to the first item in array "arr1"
+// set o1 to the first item in the array arr1
 let o1;
 console.assert(o1 === 1);
 
 let arr2 = [2, 4, 6];
-// set o2 to the last item in array "arr2"
+// set o2 to the last item in the array arr2
 let o2;
 console.assert(o2 === 6);
 
@@ -19,7 +19,7 @@ let arr4 = [
   [11, 22, 33],
   [12, 23],
 ];
-// set o4 to the second nested array in arr4 ([11, 23])
+// set o4 to the second nested array in arr4 "[11, 23]"
 let o4;
 console.assert(JSON.stringify(o4) === JSON.stringify([11, 23]));
 
@@ -31,7 +31,7 @@ console.assert(
 );
 
 let obj2 = { firstName: "John", lastName: "Daly" };
-// access the value "John" in object obj2 and set it to o5
+// access the value "John" in the object obj2 and set it to o5
 let o5;
 console.assert(o5 === "John");
 
@@ -41,6 +41,6 @@ let obj3 = {
   year: 2019,
   colors: { color1: "Red", color2: "Green", color3: "Silver" },
 };
-// access the value "Silver" in object obj3 and set it to o6
+// access the value "Silver" in the object obj3 and set it to o6
 let o5;
 console.assert(o5 === "Silver");
