@@ -1,3 +1,4 @@
+//Q1
 let num1 = 5;
 let num2 = 6;
 let greaterThanFive;
@@ -7,6 +8,7 @@ let greaterThanFive;
 
 console.assert(greaterThanFive === true);
 
+//Q2
 let lessThanSeven;
 // write if statement below that uses comparison
 // to check if num1 is les than 7
@@ -14,6 +16,7 @@ let lessThanSeven;
 
 console.assert(lessThanSeven === true);
 
+//Q3
 let num3 = 11;
 let isEleven;
 //write if statement below that checks num3
@@ -21,6 +24,7 @@ let isEleven;
 
 console.assert(isEleven === true);
 
+//Q4
 let num3 = 8;
 let isNotEight;
 //write if statement below that checks if num3
@@ -29,6 +33,7 @@ let isNotEight;
 
 console.assert(isNotEight === true);
 
+//Q5
 let str = "Hello";
 let isHello;
 //write  an if statement below that checks
