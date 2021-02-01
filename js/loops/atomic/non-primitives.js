@@ -5,17 +5,17 @@ const f1 = (x) => {
 //IGNORE CODE ABOVE :)
 
 //Q1
+let o1;
 //make a loop below that sets "o1" to an array of
 //numbers 1-5
-let o1;
 
 console.assert(f1(o1) === [1, 2, 3, 4, 5]);
 
 //Q2
 let arr1 = [1, 2, 3];
+let o2 = 0;
 //make a for loop below that increments "o2" to
 //how many items there are in "arr1"
-let o2 = 0;
 
 let arr2 = [4, 5, 6];
 //make a for loop  below that injects the numbers 7, 8 and 9
