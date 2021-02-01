@@ -2,14 +2,16 @@ const f1 = (x) => {
   return JSON.stringify(x);
 };
 
-//IGNORE CODE ABOVE
+//IGNORE CODE ABOVE :)
 
+//Q1
 //make a loop below that sets "o1" to an array of
 //numbers 1-5
 let o1;
 
 console.assert(f1(o1) === [1, 2, 3, 4, 5]);
 
+//Q2
 let arr1 = [1, 2, 3];
 //make a for loop below that increments "o2" to
 //how many items there are in "arr1"
