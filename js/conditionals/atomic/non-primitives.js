@@ -1,9 +1,3 @@
-const f1 = (x) => {
-  return JSON.stringify(x);
-};
-
-//IGNORE CODE ABOVE :)
-
 //Q1
 let arr1 = [];
 let isEmpty;
