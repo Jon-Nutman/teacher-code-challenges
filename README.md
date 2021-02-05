@@ -6,10 +6,10 @@
 
 - note this is core fundamentals and currently doesnt support async
 
-0. Variables
-1. Data access / modification
-2. Operators
-3. Conditionals
+0. Variables DONE
+1. Data access / modification DONE
+2. Operators DONE
+3. Conditionals DONE
 4. Loops
 5. Functions
 6. Methods
