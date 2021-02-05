@@ -14,6 +14,8 @@ let isNotEmpty;
 //if the array arr2 is not empty
 //isNotEmpty should be true
 
+console.assert(isNotEmpty === true);
+
 //Q3
 let arr3 = [2, 4, 6];
 let isTwo;
